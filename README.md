@@ -38,13 +38,9 @@
 
 ### To everyone that thinks this is not a big deal...go tell all of the schools, government agencies, corporations, and anyone else who actually has this trusted access of thousands of devices...would someone need to have access to those lockdown files...yes...and your point is??? Should we fire all the IT managers that have access to all the lockdown files in your corporation so that this can't be done? 
 
-### If you can control someone's phone without them knowing and without their approval, it's called a Remote Code Execution, this was the stupidest comment thus far since I have released this...
+### There are "security experts" that are saying this is not an RCE...
 
-[@iOSNJB](https://twitter.com/iOSNJB)
-
-said... clearly an iOS feature is not an RCE...
-They deleted it, but this disinformation is polluting our data privacy, fix this Apple!
-![iOS 15.0.1 RCE V1.0](https://i.postimg.cc/cJnpcx71/Screen-Shot-2021-10-10-at-1-37-56-PM.png)
+### If you can control someone's phone without them knowing and without their approval, it's called a Remote Code Execution, if you can wipe their phone without them knowing or approving its called a remote code execution...what is the process that executes on the phone when the phone is wiped? Oh code is executed with the phone is wiped? SMH....
 
 
 
